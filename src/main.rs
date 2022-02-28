@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2022, Patrick Wilmes <patrick.wilmes@bit-lake.com>
+ *
+ * SPDX-License-Identifier: BSD-2-Clause
+ */
 use std::{env, str, fs};
 use std::os::unix::fs::PermissionsExt;
 use std::fs::DirEntry;
